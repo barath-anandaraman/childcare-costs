@@ -25,6 +25,7 @@ cd childcare-costs
 
 pip install -r requirements.txt
 ```
+Download the latest dataset of NDCP from the official government website 
 ``` Bash
 
 jupyter lab
